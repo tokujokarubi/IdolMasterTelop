@@ -116,4 +116,6 @@ function startIdolMasterTelop() {
     var container = createContainer();
 
     $('body').first().append(container.append(bgLayer, logoLayer));
+    
+    // TODO: FadeIn & FadeOut
 }
