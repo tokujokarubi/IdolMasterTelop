@@ -1,3 +1,3 @@
 # IdolMasterTelop
 
-![Sample](https://raw.github.com/wiki/tomochan/IdolMasterTelop/sample/idol_master_telop.png)
+![Sample](https://github.com/tomochan/IdolMasterTelop/blob/master/sample/idol_master_telop.png)
